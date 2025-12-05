@@ -41,3 +41,4 @@ requirements.txt         # Recommended dependencies
 - The ASR stage is optional; you can supply a transcript directly when testing.
 - Scoring heuristics are transparent and adjustable in the code to match rubric changes.
 - Persona prompts are lightweight templates designed to be extended with LLM calls if desired.
+- See `STATUS.md` for a candid checklist of what is implemented versus what remains from the assignment brief.
